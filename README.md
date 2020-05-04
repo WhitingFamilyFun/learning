@@ -1,13 +1,14 @@
-This is just a repository that gives the base setup of a well structured dart project as instructed here:
+This is a repository for helping friends and family to learn how to code things.
 
-- [Getting started](https://dash-overflow.net/articles/getting_started)\
-   Some extra steps you can take right after the creation of your project to make it more scalable.
+This is one of the most simple programs that you can write.
+```dart
+main() {
+   print('hello');
+}
+```
+All programs start somewhere, and run a set of instructions one at a time, until the program finishes.
 
-Recommended libraries:
-[provider]: https://github.com/rrousselgit/provider
-[freezed]: https://github.com/rrousselgit/freezed
-With freezed, bloc becomes a lot less boilerplate and is a nice scalable solution:
-Use:
-  [flutter_bloc]: https://pub.dev/packages/flutter_bloc
-  [bloc]: https://pub.dev/packages/bloc
-[state_notifier]: https://github.com/rrousselgit/state_notifier
+The first bit creates a `function` called `main`.
+A function is a way to combine a sequence of instructions into one instruction.
+
+This function called `main` is the first instruction that runs in any program.
