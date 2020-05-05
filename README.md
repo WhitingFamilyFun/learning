@@ -24,7 +24,7 @@ A function consists of a name then a set of parentheses and then an open and clo
 
 ## Example 2:
 ```dart
-aName() {}
+aFunctionName() {}
 ```
 
 In programming all names have to start with a letter or underscore, and can only contain letters, underscores, and numbers.
