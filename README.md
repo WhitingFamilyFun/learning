@@ -1,3 +1,5 @@
+# Programming Basics
+
 This is a repository for helping friends and family to learn how to code things.
 
 There are many different languages you can use to code. I'm going to be teaching you one of my favorites called Dart. It is an easy language to learn, and it also makes it easy to make web apps, Android, iOS, Windows, Linux, and macOS apps.
@@ -5,7 +7,7 @@ There are many different languages you can use to code. I'm going to be teaching
 
 This is one of the most simple programs that you can write in Dart.
 
-Example 1:
+## Example 1:
 ```dart
 main() {
    print('hello');
@@ -20,7 +22,7 @@ This function called `main` is the first instruction that runs in any program.
 
 A function consists of a name then a set of parentheses and then an open and closing brace.
 
-Example 2:
+## Example 2:
 ```dart
 aName() {}
 ```
@@ -29,7 +31,7 @@ In programming all names have to start with a letter or underscore, and can only
 
 Usually names start with a lowercase letter, and since you can't use spaces programmers usually separate the words with uppercase letters for each new word.
 
-Example 3:
+## Example 3:
 ```dart
 aVeryLongNameSeparatedByUppercaseLettersAndWithNumbers11001010102939458568
 ```
