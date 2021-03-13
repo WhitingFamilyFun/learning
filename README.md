@@ -1,9 +1,6 @@
 # Programming Basics
 
-This is a repository for helping friends and family to learn how to code things.
-
 There are many different languages you can use to code. I'm going to be teaching you one of my favorites called Dart. It is an easy language to learn, and it also makes it easy to make web apps, Android, iOS, Windows, Linux, and macOS apps.
-
 
 This is one of the most simple programs that you can write in Dart.
 
@@ -27,28 +24,31 @@ A function consists of a name then a set of parentheses and then an open and clo
 aFunctionName() {}
 ```
 
-In programming all names have to start with a letter or underscore, and can only contain letters, underscores, and numbers.
+In Dart all names have to start with a letter or underscore, and can only contain letters, underscores, and numbers.
 
 Usually names start with a lowercase letter, and since you can't use spaces programmers usually separate the words with uppercase letters for each new word.
 
 ## Example 3:
 ```dart
-aVeryLongNameSeparatedByUppercaseLettersAndWithNumbers11001010102939458568
+aNameSeparatedByUppercaseLetters1234
 ```
 
-Typically we keep names short though.
+Typically we keep names shorter, but they should be descriptive or easy to understand.
 
 Functions have both inputs and an output. Simple functions don't have any inputs or outputs.
 The function `main` is simple like that.
 
-Data in programs are made up of a couple of types.
-* Numbers can be two types:
+All programs manipulate data in some way:
+
+Data in programs is made up of a many different types.
+The most simple are letters and numbers
+
+* Numbers can be of two different types:
    * `int` an integer 
    * `double` numbers with decimal places
-* A sequence of letters called a string
-   * `String` 
+* A sequence of letters is called a `String`
    
-The function `print` that we saw in Example 1 takes an input and outputs it.
+The function `print` that we saw in Example 1 takes an input and outputs it, the input can be of any type.
 
 To run a Dart program write or copy the code from Example 1 into a file in VSCode. Just above the `main` function will pop up a link to run the program. When you click that button it should open a tab along the bottom called the `Debug Console`. You will see the output of the program down there. For example 1 you will see `hello`.
 
